@@ -2,6 +2,10 @@
  * Proba de funcionamento dun servomotor
  * empregando a librería <Servo.h> e 
  * ligado a un potenciómetro.
+ 
+ Autor: Daniel Vilas
+Data: Febreiro de 2023
+
  */
 
 #include <Servo.h>
