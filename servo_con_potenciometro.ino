@@ -3,6 +3,11 @@
  * empregando a librería <Servo.h> e 
  * ligado a un potenciómetro.
  
+ Neste script un servo vai a ser movido por un potenciometro, de
+ manera que cando se mova o potenciometro o servo tamén hasta un
+ máximo de 180 grados. Este servo vai a estar alimentado por unha
+ alimentación externa de 6V.
+ 
  Autor: Daniel Vilas
 Data: Febreiro de 2023
 
