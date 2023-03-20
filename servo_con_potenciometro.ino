@@ -9,7 +9,7 @@
  alimentación externa de 6V.
  
  Autor: Daniel Vilas
-Data: Febreiro de 2023
+Data: Marzo de 2023
 
  */
 
