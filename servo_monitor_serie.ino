@@ -3,6 +3,15 @@
  * empregando a librería <Servo.h>
  * e a entrada serie para o posicionamento
  * do mesmo.
+ 
+ Neste script debe funcionar o potenciómetro e tamén o monitor serie 
+ cando se mova o potenciómetro o servo motor ten que moverse a súa vez,
+ e cando no monitor serie se escriba algo debera moverse el servomotor
+ sin necesidad de que o potenciometro este activado.
+ 
+ Autor: Daniel Vilas
+ Fecha: Marzo 2023
+ 
  */
 
 #include <Servo.h>
